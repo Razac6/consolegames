@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">ConsoleGames</string>
+    <string name="app_name">Game Studio</string>
+    <string name="subIn">in</string>
+    <string name="welcome">Hello.</string>
+    <string name="address">Cracow, Poland\n Mickiewicza 45 Street</string>
 </resources>
